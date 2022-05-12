@@ -1,1 +1,1 @@
-# Online-Food-Odering-System-using-Bhojdeals
+# Online-Food-Ordering-System-From-Bhojdeals-Using-Python
